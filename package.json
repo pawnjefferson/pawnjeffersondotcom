@@ -5,8 +5,10 @@
   "devDependencies": {
     "react-scripts": "0.9.3"
   },
+  "homepage": "https://pawnjefferson.github.io/pawnjeffersondotcom/",
   "dependencies": {
     "express": "^4.15.0",
+    "gh-pages": "^2.0.1",
     "instafeed.js": "^1.4.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
@@ -16,7 +18,8 @@
     "dev": "react-scripts start",
     "start": "node server.js",
     "build": "react-scripts build && cp build/index.html build/200.html",
-    "deploy": "npm run build && surge build pawnjefferson.com",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
