@@ -1,0 +1,34 @@
+.logos {
+  display: inline-block;
+  /* position: absolute; */
+  background-color: rgba(255,255,255,0.2);
+  border-radius: 100px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  background-image: url('/img/bg2.png');
+  margin-top: 25px;
+  padding: 20px;
+}
+
+
+.logos a {
+  padding: 1.5vw;
+  width: 5vw;
+  height: 5vw;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.logos img {
+  width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+  .logos a {
+    width: 19vw;
+    height: 19vw;
+  }
+}
+
+.logos a:hover {
+  background-color: rgba(255,255,0,0.45);
+}

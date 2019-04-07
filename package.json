@@ -1,0 +1,23 @@
+{
+  "name": "pawn-jefferson-website",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.9.3"
+  },
+  "dependencies": {
+    "express": "^4.15.0",
+    "instafeed.js": "^1.4.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-ga": "^2.1.2"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "start": "node server.js",
+    "build": "react-scripts build && cp build/index.html build/200.html",
+    "deploy": "npm run build && surge build pawnjefferson.com",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
