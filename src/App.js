@@ -31,7 +31,7 @@ class App extends Component {
         <div className="App-header">
 
           <div className="responsive">
-            <div><img src="/img/face.jpg"/></div>
+            <div><img src="img/face.jpg"/></div>
             <div>
               <h1>Pawn Jefferson</h1>
               <h2>

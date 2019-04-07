@@ -10,7 +10,7 @@ html, body {
 
 .App-header {
   background-color: #222;
-  background-image: url('/img/bg1.jpg');
+  background-image: url('img/bg1.jpg');
   padding: 30px;
   color: white;
   /* padding: 20px 3vw 200px; */
