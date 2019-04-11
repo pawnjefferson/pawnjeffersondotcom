@@ -45,7 +45,7 @@ class App extends Component {
           <Logos/>
 
         </div>
-        {/* <PictureBand/> */}
+        <PictureBand/>
         <div className="App-content">
           <Posts/>
         </div>
