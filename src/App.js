@@ -21,7 +21,7 @@ class App extends Component {
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-    window.ga('create', 'UA-93007724-1', 'auto');
+    window.ga('create', 'UA-138166468-1', 'auto');
     window.ga('send', 'pageview');
   }
   render() {
