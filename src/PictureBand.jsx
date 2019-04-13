@@ -15,7 +15,7 @@ class PictureBand extends Component {
     var feed = new Instafeed({
         get: 'user',
         userId: '6275344042',
-        accessToken: '45142970be83428ca29ae9d6f6c37095'
+        accessToken: '6275344042.aaa8b66.d799b61c06364d87b6512104818e75a4'
     });
     feed.run();
   }
