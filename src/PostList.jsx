@@ -11,6 +11,11 @@ let PostList = [
     date: '4/10/2019 10:37PM',
     title: 'I played an open mic the other day at Uncommon Ground in Chicago, IL',
     html: `<p>I hadn't played piano in months, and my voice was a little rusty, but I enjoyed it nonetheless.  Makes me want to do more open mics on my travels...</p><div class="videoWrapper"><iframe src="https://www.youtube.com/embed/CUEgqtwRaMs" frameborder="0" allowfullscreen></iframe></div><br>Also!!!!  Just decided on my next two locations: Nashville, TN for one week and then Destin, FL for one week.  Heard really good things about Destin.<p>Alsoooooo this website is a work in progress.  I'd really like to be able to add polls and receive comments and such so you can interact with your man, PAWN JEFFERSONNNNNNN.  Shout out to the haterz!`
+  },
+  {
+    date: '4/26/2019 12:42PM',
+    title: 'What?!  A new post?!  What is this?',
+    html: `<p>I knowwww.  I knowww what you are all thinking.  "You go around telling everybody and their mother to check out your new website (pawnjefferson.com) and then you don't even give us the good stuff."  I get it.  It's about time.  Well the wait has paid off.  Your man Pawn Jefferson is back with another top quality post that get's your juices flowing.</p><p>Well now that's out of the way.  I am going to leave you with this excellent Pawn Jefferson dollar bill designed by LEAS Main Chat's very own Tommy!  Thanks Tommy!  </p><img src="img/jeffersondollar.jpg"/> <Br><br>Don't forget to stock up on your $LEAS shares while their cheap.  Believe in the dream.  Let's go <a href="https://twitter.com/StrategicLease">Denis Bolbat</a>!  #bolbatvegasparty2019 !!!`
   }
 ];
 
