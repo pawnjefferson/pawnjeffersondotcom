@@ -16,6 +16,11 @@ let PostList = [
     date: '4/26/2019 12:42PM',
     title: 'What?!  A new post?!  What is this?',
     html: `<p>I knowwww.  I knowww what you are all thinking.  "You go around telling everybody and their mother to check out your new website (pawnjefferson.com) and then you don't even give us the good stuff."  I get it.  It's about time.  Well the wait has paid off.  Your man Pawn Jefferson is back with another top quality post that get's your juices flowing.</p><p>Well now that's out of the way.  I am going to leave you with this excellent Pawn Jefferson dollar bill designed by LEAS Main Chat's very own Tommy!  Thanks Tommy!  </p><img src="img/jeffersondollar.jpg"/> <Br><br>Don't forget to stock up on your $LEAS shares while their cheap.  Believe in the dream.  Let's go <a href="https://twitter.com/StrategicLease">Denis Bolbat</a>!  #bolbatvegasparty2019 !!!`
+  },
+  {
+    date :`4/28/2019 9:31PM`,
+    title: `Yesterday I drove from Destin, Florida to St. Petersburg, Florida.  Phew that was another longgg drive.  Also said what's up on my way down to my friends in Hernando Beach at their place right on the Gulf of Mexico.  Fun times playing Chess and trying to get them to finally take me time traveling with them.`,
+    html: `<img src="img/pawnthread.jpg">`
   }
 ];
 
