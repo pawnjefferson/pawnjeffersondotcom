@@ -24,8 +24,8 @@ let PostList = [
   },
   {
     date: `4/29/2019 11:10PM`,
-    title: 'MORE PAWN BALLERSON CHATTER ON THE IHUB BOARD!!! WOAH WAHHH WEE WAH WAHHHHH',
-    html: `<div class="videoWrapper"><iframe src="https://www.youtube.com/embed/mc12O4lrzl8" frameborder="0" allowfullscreen></iframe></div>`
+    title: `Today I went to the beach and went for a quick swim, but there was nobody there and there were absolutely 0 waves so I soon left.  Then I went to LA Fitness where they had a basketball court.  I played with some younger people - ages 14, 18, 23, 25 - and the first game I won, second game someone else won, and then the third game we were playing 21 (first to 21).  I had 8 points and there were other people with 13, 15 and 16 points.  I came back and won it!!  You should have seen how mad they were.  I gave them good game bro fives and the oldest one gave me a bad bro five so I said "that was a bad high five" and the other guy cracked up.  Anyway now I am just chilling waiting for $LEAS to hit and watching Netflix - just finished the first and only season of "I Thing You Should Leave" this is some real oddball comedy that has got me inspired for some Pawn YouTube.`,
+    html: `Also MORE PAWN BALLERSON CHATTER ON THE IHUB BOARD!!! WOAH WAHHH WEE WAH WAHHHHH<br><div class="videoWrapper"><iframe src="https://www.youtube.com/embed/mc12O4lrzl8" frameborder="0" allowfullscreen></iframe></div>`
   }
 ];
 
